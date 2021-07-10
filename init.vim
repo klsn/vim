@@ -13,4 +13,5 @@ Plug 'Yggdroot/LeaderF'
 call plug#end()
 
 source ~/.config/nvim/autoload/coc-nvim.vim
+source ~/.config/nvim/autoload/mapper.vim
 
