@@ -1,6 +1,8 @@
 
 set nu nowrap mouse=
 
+let mapleader = ' '
+
 call plug#begin('~/.config/nvim/plugged')
 
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
